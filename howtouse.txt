@@ -1,0 +1,3 @@
+Install python.
+Run using COMMAND. 
+Enjoy!
